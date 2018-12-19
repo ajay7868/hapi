@@ -1,3 +1,3 @@
 # hapi
 
-Create Restful Api using Node mysql
+Create Restful Api using Hapi Node mysql
